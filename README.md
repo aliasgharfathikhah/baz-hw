@@ -1,2 +1,2 @@
 # baz-hw
-Programming practice
+Programming exercises that include problems like if, loops, arrays, functions, and strings
